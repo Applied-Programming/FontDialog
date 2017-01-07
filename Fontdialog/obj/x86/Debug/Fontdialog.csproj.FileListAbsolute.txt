@@ -1,0 +1,16 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\Fontdialog\Fontdialog\bin\Debug\Fontdialog.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Fontdialog\Fontdialog\bin\Debug\Fontdialog.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\Fontdialog\Fontdialog\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\Fontdialog\Fontdialog\obj\x86\Debug\Fontdialog.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Fontdialog\Fontdialog\obj\x86\Debug\Fontdialog.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Fontdialog\Fontdialog\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Fontdialog\Fontdialog\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Fontdialog\Fontdialog\obj\x86\Debug\Fontdialog.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Fontdialog\Fontdialog\obj\x86\Debug\Fontdialog.pdb
+C:\Users\HP\Documents\GitHub\FontDialog\Fontdialog\obj\x86\Debug\Fontdialog.exe
+C:\Users\HP\Documents\GitHub\FontDialog\Fontdialog\obj\x86\Debug\Fontdialog.pdb
+C:\Users\HP\Documents\GitHub\FontDialog\Fontdialog\bin\Debug\Fontdialog.exe
+C:\Users\HP\Documents\GitHub\FontDialog\Fontdialog\bin\Debug\Fontdialog.pdb
+C:\Users\HP\Documents\GitHub\FontDialog\Fontdialog\obj\x86\Debug\Fontdialog.Form1.resources
+C:\Users\HP\Documents\GitHub\FontDialog\Fontdialog\obj\x86\Debug\Fontdialog.Properties.Resources.resources
+C:\Users\HP\Documents\GitHub\FontDialog\Fontdialog\obj\x86\Debug\Fontdialog.csproj.GenerateResource.Cache
